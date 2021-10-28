@@ -36,8 +36,6 @@ function iniciar() {
     }
 }
 
-
-
 let p = document.createElement('p')
 p.id = 'answer'
 p.innerText = 'Escolha uma cor'
